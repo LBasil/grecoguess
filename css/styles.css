@@ -1,0 +1,29 @@
+.alpha,
+.beta,
+.gamma {
+    visibility: hidden;
+}
+
+li {
+    display: inline-block;
+    border: solid 1px black;
+    cursor: pointer;
+    padding: 1% 1%;
+    width: 10%;
+}
+
+.lettersContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.generatorContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.imgGrec {
+    width: 10%;
+    height: 10%;
+}
+
