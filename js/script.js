@@ -338,6 +338,7 @@ function generate(){
 }
 
 function updateScore(i){
+/*
     let score = $("#combo").text();
     if (i == 1){
         score +=1;
@@ -347,6 +348,7 @@ function updateScore(i){
         score = "0";
     }
     $("#combo").text() = score;
+    */
 }
 
 
