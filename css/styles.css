@@ -18,10 +18,11 @@ li {
 
 .lettersContainer {
     display: flex;
-    flex-direction: row;
+    justify-content: space-around;
 }
 
 .generatorContainer {
+    margin-top: 5%;
     display: flex;
     justify-content: center;
 }

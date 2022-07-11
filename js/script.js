@@ -337,9 +337,10 @@ function generate(){
     }
 }
 
-function updateScore(i){
 /*
-    let score = $("#combo").text();
+function updateScore(i){
+
+    let score = document.getElementById("combo").innerHTML;
     if (i == 1){
         score +=1;
         console.log(score);
@@ -347,8 +348,8 @@ function updateScore(i){
     else {
         score = "0";
     }
-    $("#combo").text() = score;
-    */
+    document.getElementById("combo").innerHTML = $score;
+    
 }
-
+*/
 
