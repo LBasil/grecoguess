@@ -1,3 +1,4 @@
+
 $(document).ready(function() {
     generate();
 });
@@ -13,240 +14,240 @@ function checkValue(value) {
         case "alpha":
             if(image.getAttribute('src') == "./images/alpha.png"){
                 alert("Et oui c'était Alpha"); 
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "beta":
             if(image.getAttribute('src') == "./images/beta.png"){
                 alert("Et oui, c'était Beta");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "gamma":
             if(image.getAttribute('src') == "./images/gamma.png"){
                 alert("Et oui c'était Gamma");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "delta":
             if(image.getAttribute('src') == "./images/delta.png"){
                 alert("Et oui c'était Delta"); 
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "epsilon":
             if(image.getAttribute('src') == "./images/epsilon.png"){
                 alert("Et oui, c'était Epsilon");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "zeta":
             if(image.getAttribute('src') == "./images/zeta.png"){
                 alert("Et oui c'était Zeta");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "eta":
             if(image.getAttribute('src') == "./images/eta.png"){
                 alert("Et oui c'était Eta");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "theta":
             if(image.getAttribute('src') == "./images/theta.png"){
                 alert("Et oui, c'était Theta");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "iota":
             if(image.getAttribute('src') == "./images/iota.png"){
                 alert("Et oui c'était Iota");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "kappa":
             if(image.getAttribute('src') == "./images/kappaa.png"){
                 alert("Et oui c'était Kappa"); 
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "lambda":
             if(image.getAttribute('src') == "./images/lambda.png"){
                 alert("Et oui, c'était Lambda");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "mu":
             if(image.getAttribute('src') == "./images/mu.png"){
                 alert("Et oui c'était Mu");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "nu":
             if(image.getAttribute('src') == "./images/nu.png"){
                 alert("Et oui c'était Nu"); 
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "xi":
             if(image.getAttribute('src') == "./images/xi.png"){
                 alert("Et oui, c'était Xi");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "omicron":
             if(image.getAttribute('src') == "./images/omicron.png"){
                 alert("Et oui c'était Omicron");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "pi":
             if(image.getAttribute('src') == "./images/pi.png"){
                 alert("Et oui c'était Pi"); 
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "rho":
             if(image.getAttribute('src') == "./images/rho.png"){
                 alert("Et oui, c'était Rho");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "sigma":
             if(image.getAttribute('src') == "./images/sigma.png"){
                 alert("Et oui c'était Sigma");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "tau":
             if(image.getAttribute('src') == "./images/tau.png"){
                 alert("Et oui c'était Tau"); 
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "upsilon":
             if(image.getAttribute('src') == "./images/upsilon.png"){
                 alert("Et oui, c'était Upsilon");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "phi":
             if(image.getAttribute('src') == "./images/phi.png"){
                 alert("Et oui c'était Phi");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "chi":
             if(image.getAttribute('src') == "./images/chi.png"){
                 alert("Et oui c'était Chi");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "psi":
             if(image.getAttribute('src') == "./images/psi.png"){
                 alert("Et oui, c'était Psi");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
         case "omega":
             if(image.getAttribute('src') == "./images/omega.png"){
                 alert("Et oui c'était Omega");
-                updateScore(1);
+                /* updateScore(1); */
             }
             else {
-                updateScore(0);
+                /* updateScore(0); */
             }
             generate();
         break;
@@ -352,4 +353,3 @@ function updateScore(i){
     
 }
 */
-
